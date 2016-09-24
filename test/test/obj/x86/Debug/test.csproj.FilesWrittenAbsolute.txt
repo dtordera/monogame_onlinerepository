@@ -1,0 +1,6 @@
+/home/nnn/Desktop/_PROJECTS/Monogame_repository/test/test/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/nnn/Desktop/_PROJECTS/Monogame_repository/test/test/obj/x86/Debug/test.gtk-gui.gui.stetic
+/home/nnn/Desktop/_PROJECTS/Monogame_repository/test/test/bin/Debug/test.exe.mdb
+/home/nnn/Desktop/_PROJECTS/Monogame_repository/test/test/bin/Debug/test.exe
+/home/nnn/Desktop/_PROJECTS/Monogame_repository/test/test/obj/x86/Debug/test.exe
+/home/nnn/Desktop/_PROJECTS/Monogame_repository/test/test/obj/x86/Debug/test.exe.mdb

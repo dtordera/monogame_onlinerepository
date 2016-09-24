@@ -1,0 +1,10 @@
+/home/nnn/Desktop/_PROJECTS/Monogame_repository/FireEffect/FireEffect/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/nnn/Desktop/_PROJECTS/Monogame_repository/FireEffect/FireEffect/bin/Debug/OpenTK.dll.config
+/home/nnn/Desktop/_PROJECTS/Monogame_repository/FireEffect/FireEffect/bin/Debug/Tao.Sdl.dll.config
+/home/nnn/Desktop/_PROJECTS/Monogame_repository/FireEffect/FireEffect/bin/Debug/FireEffect.exe.mdb
+/home/nnn/Desktop/_PROJECTS/Monogame_repository/FireEffect/FireEffect/bin/Debug/FireEffect.exe
+/home/nnn/Desktop/_PROJECTS/Monogame_repository/FireEffect/FireEffect/obj/x86/Debug/FireEffect.exe
+/home/nnn/Desktop/_PROJECTS/Monogame_repository/FireEffect/FireEffect/obj/x86/Debug/FireEffect.exe.mdb
+/home/nnn/Desktop/_PROJECTS/Monogame_repository/FireEffect/FireEffect/bin/Debug/MonoGame.Framework.dll
+/home/nnn/Desktop/_PROJECTS/Monogame_repository/FireEffect/FireEffect/bin/Debug/OpenTK.dll
+/home/nnn/Desktop/_PROJECTS/Monogame_repository/FireEffect/FireEffect/bin/Debug/Tao.Sdl.dll

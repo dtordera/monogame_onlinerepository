@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="spherewaves/spherewaves.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="spherewaves/Game1.cs">
+    <Files>
+      <File FileName="spherewaves/Game1.cs" Line="145" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

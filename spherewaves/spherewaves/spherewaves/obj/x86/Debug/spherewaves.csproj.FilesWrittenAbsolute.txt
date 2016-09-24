@@ -1,0 +1,10 @@
+/home/nnn/Desktop/_PROJECTS/Monogame_repository/spherewaves/spherewaves/spherewaves/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/nnn/Desktop/_PROJECTS/Monogame_repository/spherewaves/spherewaves/spherewaves/bin/Debug/OpenTK.dll.config
+/home/nnn/Desktop/_PROJECTS/Monogame_repository/spherewaves/spherewaves/spherewaves/bin/Debug/Tao.Sdl.dll.config
+/home/nnn/Desktop/_PROJECTS/Monogame_repository/spherewaves/spherewaves/spherewaves/bin/Debug/spherewaves.exe.mdb
+/home/nnn/Desktop/_PROJECTS/Monogame_repository/spherewaves/spherewaves/spherewaves/bin/Debug/spherewaves.exe
+/home/nnn/Desktop/_PROJECTS/Monogame_repository/spherewaves/spherewaves/spherewaves/obj/x86/Debug/spherewaves.exe
+/home/nnn/Desktop/_PROJECTS/Monogame_repository/spherewaves/spherewaves/spherewaves/obj/x86/Debug/spherewaves.exe.mdb
+/home/nnn/Desktop/_PROJECTS/Monogame_repository/spherewaves/spherewaves/spherewaves/bin/Debug/MonoGame.Framework.dll
+/home/nnn/Desktop/_PROJECTS/Monogame_repository/spherewaves/spherewaves/spherewaves/bin/Debug/OpenTK.dll
+/home/nnn/Desktop/_PROJECTS/Monogame_repository/spherewaves/spherewaves/spherewaves/bin/Debug/Tao.Sdl.dll

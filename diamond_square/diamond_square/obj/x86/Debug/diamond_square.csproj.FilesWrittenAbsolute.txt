@@ -1,0 +1,10 @@
+/home/nnn/Desktop/_PROJECTS/Monogame_repository/diamond_square/diamond_square/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/nnn/Desktop/_PROJECTS/Monogame_repository/diamond_square/diamond_square/bin/Debug/OpenTK.dll.config
+/home/nnn/Desktop/_PROJECTS/Monogame_repository/diamond_square/diamond_square/bin/Debug/Tao.Sdl.dll.config
+/home/nnn/Desktop/_PROJECTS/Monogame_repository/diamond_square/diamond_square/bin/Debug/diamond_square.exe.mdb
+/home/nnn/Desktop/_PROJECTS/Monogame_repository/diamond_square/diamond_square/bin/Debug/diamond_square.exe
+/home/nnn/Desktop/_PROJECTS/Monogame_repository/diamond_square/diamond_square/obj/x86/Debug/diamond_square.exe
+/home/nnn/Desktop/_PROJECTS/Monogame_repository/diamond_square/diamond_square/obj/x86/Debug/diamond_square.exe.mdb
+/home/nnn/Desktop/_PROJECTS/Monogame_repository/diamond_square/diamond_square/bin/Debug/MonoGame.Framework.dll
+/home/nnn/Desktop/_PROJECTS/Monogame_repository/diamond_square/diamond_square/bin/Debug/OpenTK.dll
+/home/nnn/Desktop/_PROJECTS/Monogame_repository/diamond_square/diamond_square/bin/Debug/Tao.Sdl.dll
